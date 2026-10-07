@@ -1,1 +1,1 @@
-﻿![snake](snake.gif)
+﻿![snake](snake-v2.gif)
